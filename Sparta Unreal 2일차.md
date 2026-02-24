@@ -15,13 +15,13 @@
 - Negate는 (val, 0)이면 (-val, 0)으로 부호 반전
 
 ### 결론
-(기본 입력 Y축)
+- (기본 입력 Y축)
 W: None    
 S: Negate
 A: Negate + Swizzle
 D: Swizzle
 
-(기본 입력 X축)
+- (기본 입력 X축)
 W: Swizzle 
 S: Swizzle + Negate
 A: Negate
