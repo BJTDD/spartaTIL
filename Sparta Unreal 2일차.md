@@ -16,13 +16,13 @@
 
 ### 결론
 - (기본 입력 Y축)
-W: None    
+W: None
 S: Negate
 A: Negate + Swizzle
 D: Swizzle
 
 - (기본 입력 X축)
-W: Swizzle 
+W: Swizzle
 S: Swizzle + Negate
 A: Negate
 D: None
